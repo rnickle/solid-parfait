@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2022 Richard Nickle.  All rights reserved</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 13:11:22 -0500</lastBuildDate><atom:link href="https://rnickle.github.io/solid-parfait/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:20:41 -0500</lastBuildDate><atom:link href="https://rnickle.github.io/solid-parfait/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consideration</title>
+      <link>https://rnickle.github.io/solid-parfait/posts/consideration/</link>
+      <pubDate>Mon, 26 Dec 2022 18:20:41 -0500</pubDate>
+      
+      <guid>https://rnickle.github.io/solid-parfait/posts/consideration/</guid>
+      <description>
+        
+          
+            &lt;p&gt;After some reflection, I do not think I&amp;rsquo;ll be doing any
+work soon that needs to run natively in Windows.  I am more
+likely to target Linux and specifically Ubuntu.  Therefore, &lt;em&gt;WSL&lt;/em&gt; with &lt;em&gt;VS Code&lt;/em&gt; is the natural ecosystem for my current work.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Bash on WSL in VS Code</title>
       <link>https://rnickle.github.io/solid-parfait/posts/bash-on-wsl/</link>
