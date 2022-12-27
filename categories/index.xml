@@ -5,6 +5,7 @@
     <link>https://rnickle.github.io/solid-parfait/categories/</link>
     <description>Recent content in Categories on SOLID Parfait</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rnickle.github.io/solid-parfait/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Copyright 2022 Richard Nickle.  All rights reserved</copyright><atom:link href="https://rnickle.github.io/solid-parfait/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

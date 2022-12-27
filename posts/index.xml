@@ -6,7 +6,24 @@
     <description>Recent content in Posts on SOLID Parfait</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2022 22:53:58 -0500</lastBuildDate><atom:link href="https://rnickle.github.io/solid-parfait/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2022 Richard Nickle.  All rights reserved</copyright>
+    <lastBuildDate>Mon, 26 Dec 2022 13:11:22 -0500</lastBuildDate><atom:link href="https://rnickle.github.io/solid-parfait/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bash on WSL in VS Code</title>
+      <link>https://rnickle.github.io/solid-parfait/posts/bash-on-wsl/</link>
+      <pubDate>Mon, 26 Dec 2022 13:11:22 -0500</pubDate>
+      
+      <guid>https://rnickle.github.io/solid-parfait/posts/bash-on-wsl/</guid>
+      <description>
+        
+          
+            &lt;p&gt;When customizing the Bash environment in a &amp;ldquo;remote&amp;rdquo; session with WSL, it is important to remember that VS Code Remote does not treat the session as a login session.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Architecture</title>
       <link>https://rnickle.github.io/solid-parfait/posts/architecture/</link>
