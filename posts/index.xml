@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOLID Parfait</title>
-    <link>https://rnickle.github.io/solid-parfait/</link>
-    <description>Recent content on SOLID Parfait</description>
+    <title>Posts on SOLID Parfait</title>
+    <link>https://rnickle.github.io/solid-parfait/posts/</link>
+    <description>Recent content in Posts on SOLID Parfait</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2022 22:53:58 -0500</lastBuildDate><atom:link href="https://rnickle.github.io/solid-parfait/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 22:53:58 -0500</lastBuildDate><atom:link href="https://rnickle.github.io/solid-parfait/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
       <link>https://rnickle.github.io/solid-parfait/posts/architecture/</link>
