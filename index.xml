@@ -14,16 +14,11 @@
       <pubDate>Mon, 26 Dec 2022 18:20:41 -0500</pubDate>
       
       <guid>https://rnickle.github.io/solid-parfait/posts/consideration/</guid>
-      <description>
-        
-          
-            &lt;p&gt;After some reflection, I do not think I&amp;rsquo;ll be doing any
+      
+        <description>&lt;p&gt;After some reflection, I do not think I&amp;rsquo;ll be doing any
 work soon that needs to run natively in Windows.  I am more
-likely to target Linux and specifically Ubuntu.  Therefore, &lt;em&gt;WSL&lt;/em&gt; with &lt;em&gt;VS Code&lt;/em&gt; is the natural ecosystem for my current work.&lt;/p&gt;
-          
-          
-        
-      </description>
+likely to target Linux and specifically Ubuntu.  Therefore, &lt;em&gt;WSL&lt;/em&gt; with &lt;em&gt;VS Code&lt;/em&gt; is the natural ecosystem for my current work.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -32,14 +27,9 @@ likely to target Linux and specifically Ubuntu.  Therefore, &lt;em&gt;WSL&lt;/em
       <pubDate>Mon, 26 Dec 2022 13:11:22 -0500</pubDate>
       
       <guid>https://rnickle.github.io/solid-parfait/posts/bash-on-wsl/</guid>
-      <description>
-        
-          
-            &lt;p&gt;When customizing the Bash environment in a &amp;ldquo;remote&amp;rdquo; session with WSL, it is important to remember that VS Code Remote does not treat the session as a login session.&lt;/p&gt;
-          
-          
-        
-      </description>
+      
+        <description>&lt;p&gt;When customizing the Bash environment in a &amp;ldquo;remote&amp;rdquo; session with WSL, it is important to remember that VS Code Remote does not treat the session as a login session.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -48,15 +38,10 @@ likely to target Linux and specifically Ubuntu.  Therefore, &lt;em&gt;WSL&lt;/em
       <pubDate>Sun, 25 Dec 2022 22:53:58 -0500</pubDate>
       
       <guid>https://rnickle.github.io/solid-parfait/posts/architecture/</guid>
-      <description>
-        
-          
-            &lt;p&gt;Robert Martin&amp;rsquo;s &amp;ldquo;Clean Architecture&amp;rdquo; has a startling proposal:  that clean architecture is based on limiting the facilities available to developers to only
-what is necessary and good for building sound software.&lt;/p&gt;
-          
-          
-        
-      </description>
+      
+        <description>&lt;p&gt;Robert Martin&amp;rsquo;s &amp;ldquo;Clean Architecture&amp;rdquo; has a startling proposal:  that clean architecture is based on limiting the facilities available to developers to only
+what is necessary and good for building sound software.&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
